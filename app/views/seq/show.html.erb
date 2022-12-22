@@ -1,0 +1,9 @@
+<% if not @seq.valid? %>
+  <h3>Ошибки ввода:<h3>
+  <ul>
+    <% @seq.errors.each do |error| %>
+	  <li><%= error.full_message %></li>
+    <% end %>
+  </ul>
+<% end %>
+<%=link_to "Вернуться", root_path %>

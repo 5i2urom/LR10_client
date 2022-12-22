@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-811'?>
+<?xml-stylesheet type='text/xsl' href='output.xslt'?>
+<hash>
+    <all-seqs type="array">
+        <all-seq>1</all-seq>
+        <all-seq>2</all-seq>
+        <all-seq>3</all-seq>
+    </all-seqs>
+    <count type="integer">6</count>
+    <longest>7</longest>
+</hash>
+</hash>
